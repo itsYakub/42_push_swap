@@ -1,0 +1,13 @@
+# vim files
+*.swp
+*.swo
+
+# binary files
+*.o
+*.out
+*.a
+push_swap
+checker_linux
+
+# visualizer
+push_swap_visualizer/
